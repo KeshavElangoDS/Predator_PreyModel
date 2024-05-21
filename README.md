@@ -1,6 +1,7 @@
 # Predator-Prey Project Report
 
 This project simulates the behavior of a predator and multiple preys. We specifically modeled the predator to consume preys in regions where movement is slowed down (slow terrain), while ensuring the prey attempts to avoid the predator.
+This is a group project done in collaboration with [Tobi](https://github.com/toby766) as part of Scientific Computing with C++.
 
 # Structure
 We used four classes in managing the simulation used in the project. These include:
